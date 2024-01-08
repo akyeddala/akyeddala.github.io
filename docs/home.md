@@ -1,6 +1,6 @@
 layout: page
-title: "About"
-permalink: /about
+title: "Home"
+permalink: /home
 
 <h1> Testing </h1>
 
